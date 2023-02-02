@@ -13,7 +13,7 @@ namespace observer_airport
         public string _to;
         public string _time;
 
-        private string[] _locations = { "Italy","France","Ireland","Spain","Germany"};
+        private string[] _locations = { "Italy", "France", "Ireland", "Spain", "Germany" };
 
         public FlightInfo()
         {

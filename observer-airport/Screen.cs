@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace observer_airport
 {
-    class Screen:IObserver<FlightInfo>
+    class Screen//:IObserver<FlightInfo>
     {
+
     }
 }
