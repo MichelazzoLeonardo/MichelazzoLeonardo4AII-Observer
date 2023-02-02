@@ -1,0 +1,10 @@
+C:\Users\8293569\source\repos\MichelazzoLeonardo4AII-Observer\observer-airport\obj\Debug\observer-airport.csproj.AssemblyReference.cache
+C:\Users\8293569\source\repos\MichelazzoLeonardo4AII-Observer\observer-airport\obj\Debug\observer_airport.Form1.resources
+C:\Users\8293569\source\repos\MichelazzoLeonardo4AII-Observer\observer-airport\obj\Debug\observer_airport.Properties.Resources.resources
+C:\Users\8293569\source\repos\MichelazzoLeonardo4AII-Observer\observer-airport\obj\Debug\observer-airport.csproj.GenerateResource.cache
+C:\Users\8293569\source\repos\MichelazzoLeonardo4AII-Observer\observer-airport\obj\Debug\observer-airport.csproj.CoreCompileInputs.cache
+C:\Users\8293569\source\repos\MichelazzoLeonardo4AII-Observer\observer-airport\bin\Debug\observer-airport.exe.config
+C:\Users\8293569\source\repos\MichelazzoLeonardo4AII-Observer\observer-airport\bin\Debug\observer-airport.exe
+C:\Users\8293569\source\repos\MichelazzoLeonardo4AII-Observer\observer-airport\bin\Debug\observer-airport.pdb
+C:\Users\8293569\source\repos\MichelazzoLeonardo4AII-Observer\observer-airport\obj\Debug\observer-airport.exe
+C:\Users\8293569\source\repos\MichelazzoLeonardo4AII-Observer\observer-airport\obj\Debug\observer-airport.pdb

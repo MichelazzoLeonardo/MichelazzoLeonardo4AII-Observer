@@ -16,5 +16,16 @@ namespace observer_airport
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FlightInfo f1 = new FlightInfo();
+            richTextBox1.Text = f1.ToString();
+        }
     }
 }
