@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "observer-airport", "observer-airport.csproj", "{EF743FF5-A194-495B-A4D3-E37FB50B1996}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF743FF5-A194-495B-A4D3-E37FB50B1996}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF743FF5-A194-495B-A4D3-E37FB50B1996}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF743FF5-A194-495B-A4D3-E37FB50B1996}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF743FF5-A194-495B-A4D3-E37FB50B1996}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {37A7AE1F-528A-44D0-AA66-55E84C91087A}
+	EndGlobalSection
+EndGlobal
