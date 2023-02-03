@@ -20,10 +20,5 @@ namespace observer_airport
         {
             
         }
-        private void button1_Click(object sender, EventArgs e)
-        {
-            FlightInfo f1 = new FlightInfo();
-            richTextBox1.Text = f1.ToString();
-        }
     }
 }
