@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace observer_airport
 {
-    class Unsubscriber<FlightInfo>:IDisposable
+    public class Unsubscriber<FlightInfo>:IDisposable
     {
         private List<IObserver<FlightInfo>> _observers;
         private IObserver<FlightInfo> _observer;

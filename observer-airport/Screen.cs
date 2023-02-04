@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace observer_airport
 {
-    class Screen:IObserver<FlightInfo>
+    public class Screen :IObserver<FlightInfo>
     {
     private IDisposable _cancellation;
     private List<FlightInfo> _flightInfos;

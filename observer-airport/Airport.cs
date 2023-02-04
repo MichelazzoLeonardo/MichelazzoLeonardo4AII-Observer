@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace observer_airport
 {
-    class Airport:IObservable<FlightInfo>
+    public class Airport:IObservable<FlightInfo>
     {
         private List<IObserver<FlightInfo>> _observers;
         private List<FlightInfo> _flights;

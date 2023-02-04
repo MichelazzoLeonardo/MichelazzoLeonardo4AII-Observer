@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace observer_airport
 {
-    class FlightInfo
+    public class FlightInfo
     {
         public string _time;
         public string _from;
@@ -20,7 +20,7 @@ namespace observer_airport
         {
             Random r = new Random(DateTime.Now.Millisecond);
 
-            _time = TimeString(new string[] { $"{r.Next(0, 25)}", $"{r.Next(0, 60)}" });
+            _time = TimeString(new string[] { $"{r.Next(0, 24)}", $"{r.Next(0, 60)}" });
             do
             {
                 _from = _locations[r.Next(0, 4)];
