@@ -14,7 +14,13 @@ namespace observer_airport
         public string _n;
         public string _gate;
 
-        private string[] _locations = { "Italy", "France", "Ireland", "Spain", "Germany" };
+        private string[] _locations = {
+            "Italy\t",
+            "France\t",
+            "Ireland",
+            "Spain\t",
+            "Germany"
+        };
 
         public FlightInfo()
         {
@@ -23,8 +29,8 @@ namespace observer_airport
             _time = TimeString(new string[] { $"{r.Next(0, 24)}", $"{r.Next(0, 60)}" });
             do
             {
-                _from = _locations[r.Next(0, 4)];
-                _to = _locations[r.Next(0, 4)];
+                _from = _locations[r.Next(0, 5)];
+                _to = _locations[r.Next(0, 5)];
             } while (_from == _to);
             _n = r.Next(1000, 10000).ToString();
             _gate = r.Next(1, 13).ToString();
