@@ -1,0 +1,17 @@
+C:\Users\8293569\source\repos\ObserverAirportLibreria\bin\Debug\netcoreapp3.1\ObserverAirportLibreria.exe
+C:\Users\8293569\source\repos\ObserverAirportLibreria\bin\Debug\netcoreapp3.1\ObserverAirportLibreria.deps.json
+C:\Users\8293569\source\repos\ObserverAirportLibreria\bin\Debug\netcoreapp3.1\ObserverAirportLibreria.runtimeconfig.json
+C:\Users\8293569\source\repos\ObserverAirportLibreria\bin\Debug\netcoreapp3.1\ObserverAirportLibreria.runtimeconfig.dev.json
+C:\Users\8293569\source\repos\ObserverAirportLibreria\bin\Debug\netcoreapp3.1\ObserverAirportLibreria.dll
+C:\Users\8293569\source\repos\ObserverAirportLibreria\bin\Debug\netcoreapp3.1\ObserverAirportLibreria.pdb
+C:\Users\8293569\source\repos\ObserverAirportLibreria\bin\Debug\netcoreapp3.1\ClassLibraryObserverAirport.dll
+C:\Users\8293569\source\repos\ObserverAirportLibreria\bin\Debug\netcoreapp3.1\ClassLibraryObserverAirport.pdb
+C:\Users\8293569\source\repos\ObserverAirportLibreria\obj\Debug\netcoreapp3.1\ObserverAirportLibreria.csproj.AssemblyReference.cache
+C:\Users\8293569\source\repos\ObserverAirportLibreria\obj\Debug\netcoreapp3.1\ObserverAirportLibreria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\8293569\source\repos\ObserverAirportLibreria\obj\Debug\netcoreapp3.1\ObserverAirportLibreria.AssemblyInfoInputs.cache
+C:\Users\8293569\source\repos\ObserverAirportLibreria\obj\Debug\netcoreapp3.1\ObserverAirportLibreria.AssemblyInfo.cs
+C:\Users\8293569\source\repos\ObserverAirportLibreria\obj\Debug\netcoreapp3.1\ObserverAirportLibreria.csproj.CoreCompileInputs.cache
+C:\Users\8293569\source\repos\ObserverAirportLibreria\obj\Debug\netcoreapp3.1\ObserverAirportLibreria.csproj.CopyComplete
+C:\Users\8293569\source\repos\ObserverAirportLibreria\obj\Debug\netcoreapp3.1\ObserverAirportLibreria.dll
+C:\Users\8293569\source\repos\ObserverAirportLibreria\obj\Debug\netcoreapp3.1\ObserverAirportLibreria.pdb
+C:\Users\8293569\source\repos\ObserverAirportLibreria\obj\Debug\netcoreapp3.1\ObserverAirportLibreria.genruntimeconfig.cache

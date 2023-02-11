@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ObserverAirportLibreria/1.0.0": {
+        "dependencies": {
+          "ClassLibraryObserverAirport": "1.0.0.0"
+        },
+        "runtime": {
+          "ObserverAirportLibreria.dll": {}
+        }
+      },
+      "ClassLibraryObserverAirport/1.0.0.0": {
+        "runtime": {
+          "ClassLibraryObserverAirport.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ObserverAirportLibreria/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryObserverAirport/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
